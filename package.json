@@ -21,7 +21,7 @@
     "jest": "^24.9.0",
     "mongodb": "^3.5.1",
     "mongoose": "^5.8.9",
-    "serialize-javascript": "^2.1.2",
+    "serialize-javascript": "^3.1.0",
     "supertest": "^4.0.2",
     "ts-jest": "^24.3.0",
     "typescript": "^3.7.5"
